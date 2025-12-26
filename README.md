@@ -11,20 +11,16 @@
 - 📚 Currently preparing using **Striver’s DSA Sheet**
 - 📍 Based in **India**
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/rajaganapathi672">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rajaganapathi672&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rajaganapathi672&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
   </a>
   <a href="https://github.com/rajaganapathi672">
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rajaganapathi672&theme=radical&hide_border=true" />
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rajaganapathi672&theme=radical&hide_border=true&cache_seconds=86400" />
   </a>
 </div>
-
----
 
 ## 🔥 Coding Activity
 
