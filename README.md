@@ -13,17 +13,17 @@
 
 <hr>
 
-##  GitHub Stats
+##
 
-<div align="center">
-  <img width="400px"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajaganapathi672&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img width="400px"
-       src="https://github-readme-streak-stats.herokuapp.com?user=rajaganapathi672&theme=radical&hide_border=true" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="github-snake.svg">
+</picture>
 
----
+##
+
+<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=m3h3d1ha2an&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
 
 ## 🔥 Coding Activity
 
