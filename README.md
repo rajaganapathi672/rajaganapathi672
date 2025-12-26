@@ -43,20 +43,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,react,nodejs,express,mongodb,postgres,git,github,linux,docker" />
 </div>
 
----
 
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/rajaganapathi672/rajaganapathi672/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/rajaganapathi672/rajaganapathi672/output/github-snake.svg" />
-  <img alt="github snake animation"
-       src="https://raw.githubusercontent.com/rajaganapathi672/rajaganapathi672/output/github-snake-dark.svg" />
-</picture>
-
----
 
 ## 👀 Profile Views
 
