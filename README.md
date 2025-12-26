@@ -1,17 +1,19 @@
 ![Header](./github-header-banner.png)
 <img align="right" width="30%" src="Assets/Programming.gif">
 
+<img align="right" width="30%" src="Assets/Programming.gif">
+
 # Hi 👋, I'm Raja Ganapathi
 
 <h3>A Tech Enthusiast from India 🇮🇳</h3>
 
 - 👨‍💻 Passionate about **DSA, Full Stack Development & AI**
 - 🎓 Computer Science Student
-- 🚀 Focused on **Problem Solving & Competitive Programming**
-- 📚 Currently preparing using **Striver’s DSA Sheet**
+- 🚀 Consistently improving problem-solving skills
+- 📚 Currently focused on **DSA + System Design**
 - 📍 Based in **India**
 
----
+<hr>
 
 ##  GitHub Stats
 
