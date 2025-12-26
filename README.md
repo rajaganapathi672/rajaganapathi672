@@ -1,17 +1,18 @@
 ![Header](./github-header-banner.png)
 <img align="right" width="30%" src="./Programming.gif">
 
-# Hi 👋, I'm Raja Ganapathi
+# Hi 👋, I'm Raja Ganapathi  
 
-<h3>A Tech Enthusiast from India 🇮🇳</h3>
+### A Tech Enthusiast from India 🇮🇳  
 
 - 👨‍💻 Passionate about **DSA, Full Stack Development & AI**
-- 🎓 Computer Science Student
-- 🚀 Consistently improving problem-solving skills
-- 📚 Currently focused on **DSA + System Design**
-- 📍 Based in **India**
+- 🎓 Computer Science Student  
+- 🚀 Consistently improving problem-solving skills  
+- 📚 Currently focused on **DSA & System Design**  
+- 🧠 Solved **1500+ problems** across multiple coding platforms  
+- ⭐ **2★ CodeChef Coder**
 
-<hr>
+---
 
 
 
