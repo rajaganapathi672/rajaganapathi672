@@ -28,12 +28,8 @@
 
 ## 🔥 Coding Activity
 
-### 📌 Codolio Stats
-[![Codolio](https://img.shields.io/badge/Codolio-View%20Profile-blue?style=for-the-badge)](https://codolio.com/profile/rajaganapathi)
-
-![Total Problems Solved](https://img.shields.io/badge/Total%20Problems%20Solved-Updated%20Live-success?style=flat-square)
-
-> 🔹 View detailed problem distribution on Codolio
+### 📌 Codolio
+[![Codolio](https://img.shields.io/badge/Codolio-View%20Coding%20Stats-blue?style=for-the-badge)](https://codolio.com/profile/rajaganapathi)
 
 ### 🧠 LeetCode
 [![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/kit27cse043?theme=dark)](https://leetcode.com/u/kit27cse043/)
@@ -45,16 +41,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,react,nodejs,express,mongodb,postgres,git,github,linux,docker" />
 </div>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajaganapathi672/rajaganapathi672/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajaganapathi672/rajaganapathi672/output/github-snake.svg" />
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/rajaganapathi672/rajaganapathi672/output/github-snake-dark.svg" />
-</picture>
 
 ---
 
