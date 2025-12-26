@@ -16,8 +16,13 @@
 
 
 ##
+<a href="https://git.io/streak-stats">
+  <img 
+    src="https://github-streak-stats-m3h3d1.vercel.app/?user=rajaganapathi672&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" 
+    alt="GitHub Streak" 
+  />
+</a>
 
-<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=m3h3d1ha2an&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
 
 ## 🔥 Coding Activity
 
