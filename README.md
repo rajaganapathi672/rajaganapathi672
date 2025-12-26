@@ -34,21 +34,6 @@
 ### 🧠 LeetCode
 [![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/kit27cse043?theme=dark)](https://leetcode.com/u/kit27cse043/)
 
----
-
-## 💻 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaganapathi672&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajaganapathi672&theme=radical&no-frame=true&row=1&margin-w=10" />
-</div>
 
 ---
 
