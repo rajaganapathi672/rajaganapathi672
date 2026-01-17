@@ -9,7 +9,7 @@
 - 🎓 Computer Science Student  
 - 🚀 Consistently improving problem-solving skills  
 - 📚 Currently focused on **DSA & System Design**  
-- 🧠 Solved **1500+ problems** across multiple coding platforms  
+- 🧠 Solved **1700+ problems** across multiple coding platforms  
 - ⭐ **2★ CodeChef Coder**
 
 ---
